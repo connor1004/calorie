@@ -1,0 +1,17 @@
+//
+// Alert
+//
+
+@import "../core/alerts/alert";
+@import "../core/alerts/alert-dismissible";
+
+.alert.alert-danger {
+  color: #f75676;
+  background-color: #f7567620;
+  border-color: #f7567620;
+}
+.alert.alert-success {
+  color: #3fc68c;
+  background-color: #4fd69c10;
+  border-color: #4fd69c10;
+}
